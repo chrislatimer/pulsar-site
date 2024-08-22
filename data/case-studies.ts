@@ -219,6 +219,12 @@ export const resources: Record<Category, Resource[]> =
       description: "Tuya settled on Apache Pulsar because it proved to be the most adept at handling the accumulation of messages and repeated consumption. The addition of Pulsar has made Tuya’s message system much more efficient, resulting in lower operational and maintenance costs."
     },
     {
+      company: "Vectorize",
+      link: 'https://vectorize.io/how-to-build-a-rag-pipeline/',
+      image: '/img/vectorize.svg',
+      description: "Vectorize uses Apache Pulsar to build real-time streaming RAG pipelines that turn unstructured data into vector search indexes optimized for retrieval augmented generation. Pulsar allows Vectorize to offer a cost effective multi-tenant solution to accelerate generative AI solution delivery."
+    },
+    {
       company: "vivo",
       link: 'https://streamnative.io/success-story/vivo/',
       image: '/img/vivo.svg',
