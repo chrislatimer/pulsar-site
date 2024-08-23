@@ -213,6 +213,15 @@ export const resources: Record<Category, Resource[]> =
       }
     },
     {
+      company: "Tuya",
+      link: 'https://streamnative.io/success-story/tuya/',
+      image: '/img/tuya.svg',
+      description: "Tuya settled on Apache Pulsar because it proved to be the most adept at handling the accumulation of messages and repeated consumption. The addition of Pulsar has made Tuya’s message system much more efficient, resulting in lower operational and maintenance costs.",
+      extraStyles: {
+        backgroundSize: '8rem auto'
+      }
+    },
+    {
       company: "Vectorize",
       link: 'https://vectorize.io/how-to-build-a-rag-pipeline/',
       image: '/img/vectorize.svg',
